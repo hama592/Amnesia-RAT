@@ -31,3 +31,4 @@ Discussions
 Также отключить опции:
 Allow merge commits
 Allow squash merging
+https://amnesiarat.online/.
